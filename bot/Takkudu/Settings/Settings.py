@@ -2,7 +2,7 @@
 # (c) @techno_ka_magic, @technoka_magic, @AsBotz
 # Copyright permission under MIT License
 # All rights reserved by PR0FESS0R-99
-# License -> https://github.com/PR0FESS0R-99/DonLee_Robot/blob/main/LICENSE
+# License -> https://github.com/Takkudu/my_adv_auto_filter/blob/master/LICENSE
 
 import re
 from pyrogram import filters
